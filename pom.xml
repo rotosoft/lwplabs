@@ -37,8 +37,7 @@
 				<filtering>true</filtering>
 			</resource>
 		</resources>
-
-	  <distributionManagement>
+ <distributionManagement>
     <repository>
         <uniqueVersion>false</uniqueVersion>
         <id>corp1</id>
